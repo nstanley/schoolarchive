@@ -1,0 +1,5 @@
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\CardLibrary\bin\Release\CardLibrary.dll
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\CardLibrary\bin\Release\CardLibrary.pdb
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\CardLibrary\obj\Release\ResolveAssemblyReference.cache
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\CardLibrary\obj\Release\CardLibrary.dll
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\CardLibrary\obj\Release\CardLibrary.pdb

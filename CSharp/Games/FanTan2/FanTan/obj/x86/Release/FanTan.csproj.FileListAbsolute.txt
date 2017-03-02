@@ -1,0 +1,7 @@
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\FanTan\bin\Release\FanTan.exe
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\FanTan\bin\Release\FanTan.pdb
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\FanTan\bin\Release\CardLibrary.dll
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\FanTan\bin\Release\CardLibrary.pdb
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\FanTan\obj\x86\Release\ResolveAssemblyReference.cache
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\FanTan\obj\x86\Release\FanTan.exe
+C:\Users\LordSquirrel\Desktop\Cis501\FanTan\FanTan\obj\x86\Release\FanTan.pdb
