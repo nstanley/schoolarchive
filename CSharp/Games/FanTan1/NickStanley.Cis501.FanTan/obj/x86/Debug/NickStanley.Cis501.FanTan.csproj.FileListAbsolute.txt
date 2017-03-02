@@ -1,0 +1,5 @@
+C:\Users\LordSquirrel\Desktop\Cis501\NickStanley.Cis501.FanTan\NickStanley.Cis501.FanTan\bin\Debug\NickStanley.Cis501.FanTan.exe
+C:\Users\LordSquirrel\Desktop\Cis501\NickStanley.Cis501.FanTan\NickStanley.Cis501.FanTan\bin\Debug\NickStanley.Cis501.FanTan.pdb
+C:\Users\LordSquirrel\Desktop\Cis501\NickStanley.Cis501.FanTan\NickStanley.Cis501.FanTan\obj\x86\Debug\ResolveAssemblyReference.cache
+C:\Users\LordSquirrel\Desktop\Cis501\NickStanley.Cis501.FanTan\NickStanley.Cis501.FanTan\obj\x86\Debug\NickStanley.Cis501.FanTan.exe
+C:\Users\LordSquirrel\Desktop\Cis501\NickStanley.Cis501.FanTan\NickStanley.Cis501.FanTan\obj\x86\Debug\NickStanley.Cis501.FanTan.pdb
