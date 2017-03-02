@@ -1,0 +1,6 @@
+CIS 625 Concurrent Software Systems
+----------------------------------------------------------------------------
+
+Delegate and Caputred Variables
+	Delegate: refrence to address of a method
+	
